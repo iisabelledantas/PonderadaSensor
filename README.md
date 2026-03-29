@@ -1,7 +1,6 @@
 # Atividade 2 — Integração com Raspberry Pi Pico W
 
-Firmware embarcado desenvolvido para o **Raspberry Pi Pico W** com o objetivo de coletar dados de sensores e enviar telemetria ao sistema backend desenvolvido na Atividade 1 para acessar mais detalhes desse aplicação acessa [documentação do backend](https://iisabelledantas.github.io/PonderadaLista/)
-
+Firmware embarcado desenvolvido para o **Raspberry Pi Pico W** com o objetivo de coletar dados de sensores e enviar telemetria ao sistema backend desenvolvido na Atividade 1 para acessar mais detalhes acesse a [documentação](https://iisabelledantas.github.io/PonderadaLista/).
 
 ## Framework 
 
