@@ -102,18 +102,6 @@ A URL gerada (ex: `http://xxxx.ngrok-free.dev`) deve ser usada como `backendUrl`
 }
 ```
 
-## Instruções de Compilação e Execução
-
-### No Wokwi (simulação)
-
-1. Acesse [wokwi.com](https://wokwi.com) e crie um novo projeto **Raspberry Pi Pico W (Arduino)**
-2. Substitua o `diagram.json` pelo conteúdo indicado na seção [Diagrama de Conexão](#diagrama-de-conexão)
-3. Substitua o `sketch.ino` pelo código disponível
-4. No **Library Manager**, instale: `DHT sensor library` (Adafruit)
-5. Configure `ssid`, `password` e `backendUrl` conforme sua rede
-6. Clique em **Play** para iniciar a simulação
-
-
 ## Evidências de Funcionamento
  
 ### 1. Simulação no Wokwi — Firmware em execução
